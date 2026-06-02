@@ -182,7 +182,7 @@ Essa funcionalidade demonstra como sistemas inteligentes podem contribuir para i
 
 ## Baixa Geração Solar
 
-![LED Vermelho](imagens/led_vermelho_baixa_geracao.png)
+![LED Vermelho](imagens/led_vermelho_baixa_geracao_v2.png)
 
 ## Geração Solar Média
 
