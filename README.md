@@ -9,6 +9,8 @@
 - João Lucas – RM: 571355
 - Filipe Gunther - RM: 571131
 
+Link do projeto no tinkercad: https://www.tinkercad.com/things/5hyHcBdjeQm-prototipo-solar-chargegrid?sharecode=tn7BR-TbJlDL3eWqOEKH4GrwhQiPDQX8wPdtMazWGtY
+
 ---
 
 # Visão Geral
